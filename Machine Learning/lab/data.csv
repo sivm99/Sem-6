@@ -1,0 +1,5 @@
+Item num,X,Y,Output
+1,3,4,TRUE
+2,1,5,FALSE
+3,2,4,TRUE
+4,2,3,FALSE
